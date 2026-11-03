@@ -17,6 +17,6 @@ I'm looking for my next role: building agents and their harnesses and running th
 - [Unify agent harness](https://github.com/unifyai/unify-agent): the open-source harness in which Unify's agents act by writing and running Python. I led its ground-up redesign, with an agent mesh and a memory built for both memoization and generalisation.
 - [Ivy](https://github.com/unifyai/ivy): the transpiler I led, from the traced-graph version at Unify to the source-to-source rebuild at Ivy, which rewrote PyTorch code as readable TensorFlow and JAX with its control flow intact.
 - [Kornia](https://github.com/kornia/kornia/pull/3045): co-authored the integration, merged in October 2024, that gave this PyTorch computer-vision library TensorFlow, JAX, and NumPy support through Ivy's transpiler.
-- [TensorLy](https://summerofcode.withgoogle.com/archive/2023/projects/kvfFWRyF): co-mentored the Google Summer of Code 2023 project to make TensorLy usable with every framework Ivy supported, by switching its backends through Ivy.
+- [TensorLy](https://summerofcode.withgoogle.com/archive/2023/projects/kvfFWRyF): co-mentored the Google Summer of Code 2023 project that brought TensorLy-style tensor decompositions into Ivy.
 
 [harismahmood.dev](https://harismahmood.dev) · [LinkedIn](https://linkedin.com/in/hmahmood24) · [X](https://x.com/itsharismahmood)
